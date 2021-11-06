@@ -1,0 +1,14 @@
+Course Name: BBA
+Level Name: 1
+Student ID: 2
+Name Of Student: test
+                               Progress Report                         
+============================================================================================
+Module ID	Module Name	Obtained Mark	Obtained Grade
+1		english		50		C
+2		nepali		90		A
+3		maths		50		C
+4		science		50		C
+============================================================================================
+Remarks: Remarks: Student can be upgraded to higher level study.
+============================================================================================

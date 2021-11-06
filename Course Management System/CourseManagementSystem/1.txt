@@ -1,0 +1,12 @@
+Course Name: BCA
+Level Name: 1st Semester
+Student ID: 1
+Name Of Student: CPA
+                               Progress Report                         
+============================================================================================
+Module ID	Module Name	Obtained Mark	Obtained Grade
+1		Java		99		A
+3		C#		77		B
+============================================================================================
+Remarks: Remarks: Student can be upgraded to higher level study.
+============================================================================================
